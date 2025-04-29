@@ -7,7 +7,7 @@ The Doctor Appointment System is a modern web application built with React to st
 ## Live Demo
 You can check out the live demo of the Doctor Appointment System at the following link:
 
- Prescripto - Live Demo
+ Prescripto - https://astounding-begonia-456f1a.netlify.app/
 
 ## Key Features
 - User Registration & Authentication: Secure user login and registration system for patients to manage their profiles and appointments.
