@@ -1,12 +1,54 @@
-# React + Vite
+# Prescripto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Project Overview
+The Doctor Appointment System is a modern web application built with React to streamline the process of booking and managing doctor appointments. It provides an intuitive and user-friendly platform for patients to find and schedule appointments with doctors in real-time. The system also allows for flexible consultation options, notifications, and an interactive interface to make healthcare access simpler and more efficient.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Demo
+You can check out the live demo of the Doctor Appointment System at the following link:
 
-## Expanding the ESLint configuration
+ Prescripto - Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Key Features
+- User Registration & Authentication: Secure user login and registration system for patients to manage their profiles and appointments.
+
+- Doctor Search: Search for doctors based on specialties, locations, and availability. Filter results to find the perfect match for your needs.
+
+- Appointment Scheduling: Book, reschedule, and cancel appointments in real-time with easy-to-navigate options.
+
+- Flexible Consultation: Choose between in-person or virtual consultations based on user preferences.
+
+- Appointment Reminders: Get automatic reminders for upcoming appointments to ensure no missed visits.
+  
+- Doctor Profiles: View detailed profiles of doctors, including their specialties, ratings, availability, and patient reviews.
+
+- Admin Dashboard: Allows administrators to manage doctor profiles, monitor appointments, and handle the overall scheduling process.
+
+## Technologies Used
+- Frontend: React, React Router, Axios, Tailwind (or Styled Components)
+
+- State Management: React Context or Redux (optional based on project complexity)
+
+- API Integration: Axios (for communicating with a backend API if required in future)
+
+- Authentication: JWT (optional if you plan to handle authentication in the frontend)
+
+## Installation Instructions
+
+1. Clone the repository:
+git clone https://github.com/01Rohitsingh/Prescripto.git
+
+3. Install dependencies:
+npm install
+
+3. Start the development server:
+npm start
+
+
+## Features in Development
+- Mobile Responsiveness: The app will be fully optimized for mobile devices to enhance accessibility and usability.
+
+- Video Consultation Integration: Integration with third-party video consultation APIs (like Zoom or WebRTC) for virtual doctor appointments.
+
+- Enhanced Admin Features: Future development to include detailed analytics, doctor performance tracking, and patient feedback management.
+
