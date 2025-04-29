@@ -25,7 +25,7 @@ You can check out the live demo of the Doctor Appointment System at the followin
 - Admin Dashboard: Allows administrators to manage doctor profiles, monitor appointments, and handle the overall scheduling process.
 
 ## Technologies Used
-- Frontend: React, React Router, Axios, Tailwind (or Styled Components)
+- Frontend: React, React Router, Axios, Tailwind 
 
 - State Management: React Context or Redux (optional based on project complexity)
 
@@ -43,7 +43,6 @@ npm install
 
 3. Start the development server:
 npm start
-
 
 ## Features in Development
 - Mobile Responsiveness: The app will be fully optimized for mobile devices to enhance accessibility and usability.
