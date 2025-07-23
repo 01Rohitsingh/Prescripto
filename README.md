@@ -7,10 +7,7 @@ The Doctor Appointment System is a modern web application built with React to st
 ## Vedio
   https://github.com/user-attachments/assets/39261c41-5bc1-4e65-a03b-d4c3ba77a81c
   
-## Live Demo
-You can check out the live demo of the *Prescripto*  at the following link:
 
- Prescripto - https://astounding-begonia-456f1a.netlify.app/
 
 ## Key Features
 - User Registration & Authentication: Secure user login and registration system for patients to manage their profiles and appointments.
